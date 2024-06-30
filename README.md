@@ -1,6 +1,4 @@
-# Windows Native API Basics
-
-Reversing and Calling Windows 11 Native API Syscalls with x64 Assembly (An oldy but a goody)
+# Reversing and Calling Windows 11 Native API Syscalls with x64 Assembly (An oldy but a goody)
 
 Dan O’Malley
 
