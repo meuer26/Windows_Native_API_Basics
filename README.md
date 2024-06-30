@@ -33,3 +33,6 @@ value (Ring 0), which is a higher privilege level)
 - You need to know how to layout the arguments in the registers and on the
 stack correctly to make it work. There are several Windows-specific details
 that are needed including Unicode strings, etc.
+
+
+This included PDF will give you a starting point [Windows_Native_API_Basics](https://github.com/meuer26/Windows_Native_API_Basics/blob/main/Windows_Native_API_Basics.pdf).
